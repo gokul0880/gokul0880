@@ -13,3 +13,10 @@
 ## 🧩 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Gokul_r/)
+
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_r?theme=light&font=Fira%20Code&ext=contest)
+
