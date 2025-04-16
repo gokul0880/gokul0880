@@ -40,7 +40,7 @@ I'm passionate about building web applications and exploring the world of embedd
 - Advanced Embedded Systems Design
 - PCB Design and Hardware Prototyping
 - React Performance Optimization
-- Microservices Architecture
+- DSA in JAVA
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulakannan-r-583b34281/)
