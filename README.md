@@ -34,7 +34,7 @@ I'm passionate about building web applications and exploring the world of embedd
 ## 📈 Coding Journey
 
 ### 🏆 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_r?theme=light&font=Fira%20Code&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_r?theme=light&font=Fira%20Code&ext=contest) 
 
 ## 🌱 Currently Learning
 - Advanced Embedded Systems Design
