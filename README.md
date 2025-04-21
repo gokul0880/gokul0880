@@ -33,16 +33,7 @@ Building robust web applications while exploring the intersection of software an
 ### **LeetCode Progress**
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
-
-
-- 150+ Problems Solved (Data Structures & Algorithms)
-- Weekly Contest Participant
-
-## 🚀 Featured Projects
-
-- **Smart Irrigation System** – An IoT-based solution for automated watering with real-time soil moisture sensing. [View Project](https://github.com/your-repo)
-- **Activity Tracker Web App** – A full-stack app to log and visualize daily habits. Built with React, Express, and SQLite. [View Live](https://yourdeployment.com)
-
+ 
 ## 🎓 Certifications & Learning
 
 - Embedded Systems Essentials – NPTEL
