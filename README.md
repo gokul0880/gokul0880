@@ -36,6 +36,16 @@ Building robust web applications while exploring the intersection of software an
 - 150+ Problems Solved (Data Structures & Algorithms)
 - Weekly Contest Participant
 
+## 🚀 Featured Projects
+
+- **Smart Irrigation System** – An IoT-based solution for automated watering with real-time soil moisture sensing. [View Project](https://github.com/your-repo)
+- **Activity Tracker Web App** – A full-stack app to log and visualize daily habits. Built with React, Express, and SQLite. [View Live](https://yourdeployment.com)
+
+## 🎓 Certifications & Learning
+
+- Embedded Systems Essentials – NPTEL
+- Full-Stack Development Bootcamp – Udemy (In Progress)
+
 ## 🔭 Current Focus
 
 - **Embedded Systems**: RTOS development, Hardware-Software integration
@@ -45,5 +55,11 @@ Building robust web applications while exploring the intersection of software an
 ## 📫 Let's Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokulakannan-r-583b34281/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github)](https://github.com/gokul0880)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:gokul567gd@gmail.com)
+
+---
+
+![Gokul's GitHub Streak](https://streak-stats.demolab.com?user=gokul0880&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0880&layout=compact&theme=default)
