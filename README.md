@@ -31,7 +31,9 @@ Building robust web applications while exploring the intersection of software an
 ## 📈 Coding Achievements
 
 ### **LeetCode Progress**
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Gokul_r&theme=light)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
+
 
 - 150+ Problems Solved (Data Structures & Algorithms)
 - Weekly Contest Participant
