@@ -30,8 +30,8 @@ Building robust web applications while exploring the intersection of software an
  
 ## 🎓 Certifications & Learning
 
-- Embedded Systems Essentials – NPTEL
-- Full-Stack Development Bootcamp – Udemy (In Progress)
+- Embedded Systems Essentials – SOI
+- Software Development (currenty learning DSA) - Greek for Geeks
 
 ## 🔭 Current Focus
 
