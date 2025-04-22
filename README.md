@@ -27,12 +27,6 @@ Building robust web applications while exploring the intersection of software an
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="PCB Design" src="https://img.shields.io/badge/PCB_Design-10B981?style=for-the-badge&logo=circuit-diagram&logoColor=white"/>
 </div>
-
-## 📈 Coding Achievements
-
-### **LeetCode Progress**
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-blue?style=for-the-badge)
  
 ## 🎓 Certifications & Learning
 
